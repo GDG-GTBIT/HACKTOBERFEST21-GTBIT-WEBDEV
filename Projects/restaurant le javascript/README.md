@@ -8,7 +8,7 @@
 <li ><a href= "./javascript dessert"> Javascript dessert</a>   </li>
 </ul>
 
-<h3> But sadly , our chefs created some issues in these dishes. So , what we expecting from you is to manage our restaurant and resolve these issues without changing any signature of the dishes before serving to the customers. Issues is well defined in dishes. </h3>
+<h3> But sadly , our chefs created some issues in these dishes. So , what we expecting from you is to manage our restaurant and resolve these issues without changing any signature of the dishes before serving to the customers. You can find issue with the dishes and we want you to add some flavours to them and make them as usual they were in our restaurant. </h3>
 
 <h2>Instructions..</h2>
 <ol>
