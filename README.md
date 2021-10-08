@@ -20,7 +20,7 @@
 <a href="https://github.com/dsc-gtbit/HACKTOBERFEST21-GTBIT-WEBDEV/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/dsc-gtbit/HACKTOBERFEST21-GTBIT-WEBDEV?color=0059b3"></a> 
 </div>
 
-<h1 align="center" >💻 DSC-GTBIT HACKTOBERFEST21-GTBIT-WEBDEV 💻</h1>
+<h1 align="center" >💻 GDSC-GTBIT HACKTOBERFEST21-WEBDEV 💻</h1>
 
 <h3>Hello Everyone 👋🏻 Glad to see you all here !! I hope everyone is eager to give their best contributions. This project aims to have a collection of innovative projects related to web development in a single place. Not only Projects, this repo aims to collect documents ( notes ) & provide references for beginners to learn so as to provide a one-stop solution for everyone to learn and upskill!
 
