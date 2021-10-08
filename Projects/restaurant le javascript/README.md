@@ -13,6 +13,6 @@
 <h2>Instructions..</h2>
 <ol>
 <li> Run these javascript Files in your browsers and try to resolve the issues.</li>
-<li> Add your name, dish link with proper directory path (like ./{category}/{dish name}) and your script tag in <a href="./user.json" > user.json </a> </li>
+<li> Add your name , github profile, dish link with proper directory path (like ./{category}/{dish name}) and your script tag in <a href="./user.json" > user.json </a> </li>
 <li> You are allowed to use the internet but please don't plagiarize </li>
 </ol>
