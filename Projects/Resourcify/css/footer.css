@@ -1,0 +1,87 @@
+#footer{
+    max-width:100vw;
+    padding:30px 0px 0px 0px;
+    background-color:rgba(85, 255, 27,0.5);
+    color:white;
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap:wrap;
+    margin-top:20px;
+}
+#footer-about-us{
+    width:300px;
+    margin:0px 20px;
+}
+#footer-about-us p{
+    text-align:justify;
+}
+
+#footer-quick-links{
+    width:200px;
+    padding:10px;
+}
+#footer h3{
+    font-weight:300;
+    margin-bottom:10px;
+    text-align:center;
+    color:black;
+    font-size:1.5rem;
+}
+#footer-quick-links ul{
+    padding:0px;
+}
+#footer-social-media ul{
+    padding:0px;
+}
+#footer-quick-links ul a{
+    padding:10px;
+    text-align:center;
+}
+#footer-quick-links ul a li{
+    list-style: none;
+}
+#footer-social-media ul a{
+    padding:10px;
+    text-align:center;
+    font-size:1.5rem;
+}
+#footer-social-media ul a li{
+    list-style: none;
+    /* display: inline;
+    padding:1rem; */
+}
+#credit{
+    width:100%;
+    padding:2px;
+    text-align:center;
+    font-size:1.1rem;
+    background-color: white;
+    color:black;
+}
+@media screen and (max-width:600px){
+    #footer-quick-links,#footer-social-media,#footer-about-us{
+        width:100%;
+    }
+    #footer-about-us{
+        margin:0px;
+        padding:0rem 1rem;
+        text-align: justify;
+    }
+    #footer-about-us p{
+        font-size:0.8rem;
+    }
+    #footer-quick-links ul{
+        padding:0px;
+    }
+    #footer-social-media ul{
+        padding:0px;
+        text-align: center;
+    }
+    #footer-social-media ul a li{
+        display: inline;
+    }
+    #credit{
+        font-size:0.7rem;
+    }
+
+}

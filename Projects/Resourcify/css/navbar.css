@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    --greencolor:#55FF1B;
+}
+.navbar{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    /* background-color: red; */
+}
+.navbar-brand img{
+    width:10%;
+}
+.navbar #navbarNavAltMarkup{
+    justify-content: flex-end;
+}
+.navbar-nav a{
+    font-weight:600;
+    color:black;
+    margin-right:1rem;
+    padding:0.3rem 1rem;
+    border-radius:10px;
+    transition: 0.5s ease-in-out;
+    font-size:1.1rem;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color:white;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+    color:var(--greencolor);
+}
+.navbar-dark .navbar-nav .nav-link .active{
+    color:var(--greencolor);
+    font-weight: 700;
+}
+@media screen and (max-width:600px)
+{
+    .navbar>.container-fluid{
+        max-width: 100vw;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+}

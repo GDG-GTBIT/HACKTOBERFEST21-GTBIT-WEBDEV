@@ -1,0 +1,75 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- favicon -->
+    <link rel="shortcut icon" type="image/png" href="./Assets/Resourcify-logo.png">
+    <!-- font awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- aos library -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <!-- boostrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-uWxY/CJNBR+1zjPWmfnSnVxwRheevXITnMqoEIeG1LJrdI0GlVs/9cVSyPYXdcSF" crossorigin="anonymous">
+    <!-- stylesheet -->
+    <link rel="stylesheet" type="text/css" href="./css/home.css">
+    <link rel="stylesheet" type="text/css" href="./css/navbar.css">
+    <title>Resourcify</title>
+</head>
+<body>
+    <!-- Navbar -->
+        <section class="container-fluid mb-5">
+                <nav class="navbar navbar-expand-xl navbar-dark fixed-top">
+                    <div class="container-fluid">
+                      <a class="navbar-brand" href="#">
+                          <img src="./Assets/Resourcify-logo.png" alt="logo">
+                      </a>
+                      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                      </button>
+                      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                        <div class="navbar-nav">
+                          <a class="nav-link active" aria-current="page" href="/index.html">Home</a>
+                          <a class="nav-link" href="#">About</a>
+                          <a class="nav-link" href="./Pages/topic-store.html">Topic Store</a>
+                          <a class="nav-link" href="./Pages/resources.html">All Resources</a>
+                          <a class="nav-link" href="#">Contribute Resource</a>
+                        </div>
+                      </div>
+                    </div>
+                  </nav>
+        </section>
+
+    <a name="home">
+        <section id="title">
+            <h1 data-aos="flip-right" data-aos-duration="2000" data-aos-delay="400">Resourcify</h1>
+            <h5 id="title-tagline"><span id="title-tagline-content"></span>
+                <span id="title-tagline-cursor">|</span></h5>
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-top:1rem">
+                <a href="./Pages/topic-store.html"><button>LEARN NOW</button></a>
+                <div id="arrow-down">
+                    <a href="./Pages/topic-store.html"><img src="Assets/arrow.png" alt="arrow-down"></a>
+                </div>
+            </div>
+        </section>
+    </a>
+
+
+        <section id="social-media">
+            <ul>
+                <a href="#" ><li><i class="fab fa-instagram"></i></li></a>
+                <a href="#"><li><i class="fab fa-facebook"></i></li></a>
+                <a href="#"><li><i class="fab fa-telegram"></i></li></a>
+                <a href="mailto:webbedresources@gmail.com?subject=query" target="_blank"><li><i class="fas fa-envelope-open-text"></i></li></a>
+            </ul>
+        </section>
+
+    <!-- scripts -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-kQtW33rZJAHjgefvhyyzcGF3C5TFyBQBA13V1RKPf4uH+bwyzQxZ6CmMZHmNBEfJ" crossorigin="anonymous"></script>
+    <script src="/js/home.js"></script>
+    <script>
+        AOS.init();
+    </script>
+</body>
+</html>

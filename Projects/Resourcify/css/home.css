@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+
+/* ----------------------------------------GLOBAL STYLING-------------------------------------- */
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    --greencolor:#55FF1B;
+}
+::-webkit-scrollbar{
+    width:10px;
+}
+::-webkit-scrollbar-track{
+    background:black;
+}
+::-webkit-scrollbar-thumb {
+    background:var(--greencolor);
+}
+::-webkit-scrollbar-thumb:hover {
+    background:greenyellow;
+}
+
+
+body{
+    max-width:100vw;
+    background-color:black;
+    color:white;
+    height:fit-content;
+    position: relative;
+}
+body::after{
+    content:"";
+    position: fixed;
+    top:0px;
+    height:100vh;
+    width:100vw;
+     background:url("/Assets/background.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index:-1;
+    opacity:0.1;
+}
+
+/* title section */
+#title{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction:column;
+    height:80%;
+}
+#title h1{
+    font-size:8rem;
+    font-family: 'Alex Brush', cursive;
+    font-weight:200;
+    text-shadow: 3px 3px 10px  var(--greencolor);
+    text-align:center;
+}
+#title button{
+    /* margin-top:20px; */
+    background-color:black;
+    color:white;
+    padding:8px 15px;
+    outline:none;
+    border-color: var(--greencolor);
+    transition: ease-out 0.5s;
+    font-size:1.2rem;
+    border-radius:20px;
+    position:relative;
+    left:50%;
+    transform: translateX(-50%);
+}
+#title button:hover{
+    box-shadow:inset 0px 400px  var(--greencolor);
+    border-color:rgba(255,255,255,1);
+    color:black;
+}
+#title h5{
+    color: var(--greencolor);
+    font-size:1.5rem;
+    margin-top:-15px;
+    animation-name:blink;
+    animation-duration: 0.5s;
+    animation-iteration-count: 40;
+    text-align:center;
+}
+@keyframes blink{
+    0%{
+        opacity:1;
+    }
+    80%{
+        opacity:0;
+    }
+    100%{
+        opacity:1;
+    }
+}
+#title h6{
+    font-size:1.2rem;
+    font-style: oblique;
+    margin-top:10px;
+    text-align:center;
+}
+#title #arrow-down{
+    width:50px;
+    height:50px;
+    position: relative;
+    left:1.5rem;
+    transform:rotate(270deg)
+}
+#title #arrow-down img{
+    max-width:100%;
+    max-height:100%;
+    animation-name: shake;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+    0%{
+        transform: translateY(-20px);
+    }
+    50%{
+        transform:translateY(20px);
+    }
+    100%{
+        transform:translateY(-20px);
+    }
+
+}
+
+
+/* social media icons */
+#social-media{
+    color:white;
+    position:fixed;
+    top:15%;
+    left:0px;
+    padding:10px 30px;
+    z-index:1;
+}
+#social-media ul a li{
+    list-style-type: none;
+}
+#social-media ul a{
+    margin:20px 10px;
+    padding:10px;
+    font-size:2rem;
+    color:white;
+}
+#social-media ul a:hover{
+    color: var(--greencolor);
+}
+
+/* Responsiveness */
+@media screen and (max-width:500px)
+{
+    #title h1{
+        font-size:4rem;
+    }
+    #title h5{
+        margin-top:0px;
+        font-size:1rem;
+        text-align:center;
+    }
+    #title h6{
+        font-size:0.8rem;
+    }
+    #title button{
+        font-size:0.8rem;
+    }
+}
+
+@media screen and (max-width:900px)
+{
+    #social-media{
+        display:none;
+    }
+}
