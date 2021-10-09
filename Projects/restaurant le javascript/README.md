@@ -1,5 +1,5 @@
 <h1 align="center" > Welcome to Restaurant le javascript ❤️</h1>
-<img  height="50%" width="100%" src="./Restaurant le javascript Logo.png" /> 
+<img  height="20%" width="100%" src="./Restaurant le javascript Logo.png" /> 
 
 <h3> So , Like all the restaurants , we also serve our dishes in three parts.  </h3>
 
