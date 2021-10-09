@@ -8,15 +8,6 @@
 <a href="https://github.com/aanchalrakheja"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
 <a href="https://github.com/aanchalrakheja/Resourcify/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg?v=103"></a>
 
-<a href="https://github.com/aanchalrakheja/Resourcify/graphs/contributors"><img src="https://img.shields.io/github/contributors/aanchalrakheja/Resourcify?color=brightgreen"></a>
-<a href="https://github.com/aanchalrakheja/Resourcify/stargazers"><img src="https://img.shields.io/github/stars/aanchalrakheja/Resourcify?color=0059b3"></a>
-<a href="https://github.com/aanchalrakheja/Resourcify/network/members"><img src="https://img.shields.io/github/forks/aanchalrakheja/Resourcify?color=yellow"></a>
-<a href="https://github.com/aanchalrakheja/Resourcify/issues"><img src="https://img.shields.io/github/issues/aanchalrakheja/Resourcify?color=0059b3"></a>
-<a href="https://github.com/aanchalrakheja/Resourcify/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/aanchalrakheja/Resourcify?color=yellow"></a>
-<a href="https://github.com/aanchalrakheja/Resourcify/pulls"><img src="https://img.shields.io/github/issues-pr/aanchalrakheja/Resourcify?color=brightgreen"></a>
-<a href="https://github.com/aanchalrakheja/Resourcify/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/aanchalrakheja/Resourcify?color=0059b3"></a> 
-
-
 </div>
 
 Started on **3 SEPTEMBER 2021**
