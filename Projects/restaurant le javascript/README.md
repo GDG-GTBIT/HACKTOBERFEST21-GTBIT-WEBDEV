@@ -13,7 +13,8 @@
 
 <h2>Instructions..</h2>
 <ol>
-<li> Run these javascript Files in your browser or any other environment and try to resolve the issues.</li>
-<li> Add your name , github profile, dish link with proper directory path (like ./{category}/{dish name}) and your script tag in <a href="./user.json" > user.json </a> </li>
-<li> You are allowed to use the internet but please don't plagiarize </li>
+  <li> Run these javascript,html Files in <a  target="_blank" href="https://codesandbox.io/" > codesandbox</a>  and try to resolve the issues.</li>
+<li> Add your name , github profile, dish link with proper directory path (like ./{category}/{dish name}) and codesandbox link for corresponding problem in <a href="./user.json" > user.json </a> </li>
+  <li> This is not compulsory to solve all queries , you can choose any of them </li>
+<li> You are allowed to use the internet and  but please don't plagiarize </li>
 </ol>
