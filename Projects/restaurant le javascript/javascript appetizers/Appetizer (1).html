@@ -11,6 +11,11 @@
     <button>sayHello</button>
     <script>
     //  Your Code Here  
+    const btn = document.querySelector('button');
+    let body = document.querySelector('body')
+    btn.addEventListener("click",()=>{
+      body.innerHTML = "Hello !";
+    })
     </script>
   </body>
 </html>
