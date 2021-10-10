@@ -1,9 +1,9 @@
 [
 
  {
- "name" : "AmanRana10"
-"github profile" : "https://github.com/AmanRana10"
-"dish link" : "HACKTOBERFEST21-GTBIT-WEBDEV/Projects/restaurant le javascript/javascript appetizers/Appetizer (1).html"
+ "name" : "AmanRana10",
+"github profile" : "https://github.com/AmanRana10",
+"dish link" : "HACKTOBERFEST21-GTBIT-WEBDEV/Projects/restaurant le javascript/javascript appetizers/Appetizer (1).html",
 "code": `<script>
     //  Your Code Here  
     const btn = document.querySelector('button');
@@ -11,7 +11,7 @@
     btn.addEventListener("click",()=>{
       body.innerHTML = "Hello !";
     })
- </script>`
+ </script> `
  
  }
  
