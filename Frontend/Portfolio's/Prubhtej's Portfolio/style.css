@@ -118,6 +118,7 @@ section .title::after{
     font-weight: 500;
     margin-left: 25px;
     transition: color 0.3s ease;
+    text-shadow: 1px 1px 2px rgb(0 0 0 / 50%);
 }
 .navbar .menu li a:hover{
     color: crimson;
