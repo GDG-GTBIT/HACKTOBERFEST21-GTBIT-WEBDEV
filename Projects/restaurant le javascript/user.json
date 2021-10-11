@@ -29,7 +29,30 @@
     
   </script> `
   
-  }
+  },{
+    "name" : "Harpreet Singh",
+   "github profile" : "https://github.com/harpreet1602",
+   "dish link" : "HACKTOBERFEST21-GTBIT-WEBDEV/Projects/restaurant le javascript/javascript appetizers/Appetizer (3).html",
+   "code": `<script>
+   let ptags = document.querySelectorAll("p");
+   for(let i=0;i<ptags.length;i++){
+     ptags[i].addEventListener("click",function(e){
+ 
+       if(e.detail==3){
+       e.currentTarget.style.background = "none";
+       }
+       else if(e.detail==2){
+       e.currentTarget.style.backgroundColor = "green";
+       }
+       else if(e.detail==1){
+       e.currentTarget.style.backgroundColor = "red";
+       }
+       
+     });
+   }
+ </script> `
+    
+    }
  
  
 ]
