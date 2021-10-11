@@ -35,6 +35,7 @@ Examples of unacceptable behavior includes:
   address, without their explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
+* copying and pasting someones code here is unacceptale.
 
 ## Enforcement Responsibilities
 
