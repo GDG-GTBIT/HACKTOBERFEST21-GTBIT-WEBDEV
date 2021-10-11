@@ -27,6 +27,23 @@
       perferendis at quod illum, deleniti similique a eius nulla architecto
       earum. Iure, deleniti.
     </p>
-    <script></script>
+    <script>
+      let ptags = document.querySelectorAll("p");
+      for(let i=0;i<ptags.length;i++){
+        ptags[i].addEventListener("click",function(e){
+    
+          if(e.detail==3){
+          e.currentTarget.style.background = "none";
+          }
+          else if(e.detail==2){
+          e.currentTarget.style.backgroundColor = "green";
+          }
+          else if(e.detail==1){
+          e.currentTarget.style.backgroundColor = "red";
+          }
+          
+        });
+      }
+    </script>
   </body>
 </html>
