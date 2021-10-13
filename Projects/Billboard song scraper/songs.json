@@ -1,0 +1,250 @@
+[
+  { "rank": "1", "name": "My Universe", "artist": "Coldplay x BTS" },
+  { "rank": "2", "name": "Stay", "artist": "The Kid LAROI & Justin Bieber" },
+  { "rank": "3", "name": "Industry Baby", "artist": "Lil Nas X & Jack Harlow" },
+  {
+    "rank": "4",
+    "name": "Way 2 Sexy",
+    "artist": "Drake Featuring Future & Young Thug"
+  },
+  { "rank": "5", "name": "Fancy Like", "artist": "Walker Hayes" },
+  { "rank": "6", "name": "Bad Habits", "artist": "Ed Sheeran" },
+  { "rank": "7", "name": "Good 4 U", "artist": "Olivia Rodrigo" },
+  { "rank": "8", "name": "Kiss Me More", "artist": "Doja Cat Featuring SZA" },
+  {
+    "rank": "9",
+    "name": "Knife Talk",
+    "artist": "Drake Featuring 21 Savage & Project Pat"
+  },
+  { "rank": "10", "name": "Levitating", "artist": "Dua Lipa" },
+  {
+    "rank": "11",
+    "name": "Essence",
+    "artist": "Wizkid Featuring Justin Bieber & Tems"
+  },
+  {
+    "rank": "12",
+    "name": "Save Your Tears",
+    "artist": "The Weeknd & Ariana Grande"
+  },
+  {
+    "rank": "13",
+    "name": "Montero (Call Me By Your Name)",
+    "artist": "Lil Nas X"
+  },
+  { "rank": "14", "name": "Shivers", "artist": "Ed Sheeran" },
+  { "rank": "15", "name": "Heat Waves", "artist": "Glass Animals" },
+  { "rank": "16", "name": "Need To Know", "artist": "Doja Cat" },
+  {
+    "rank": "17",
+    "name": "Girls Want Girls",
+    "artist": "Drake Featuring Lil Baby"
+  },
+  { "rank": "18", "name": "You Right", "artist": "Doja Cat & The Weeknd" },
+  { "rank": "19", "name": "Beggin'", "artist": "Maneskin" },
+  { "rank": "20", "name": "Wockesha", "artist": "Moneybagg Yo" },
+  {
+    "rank": "21",
+    "name": "If I Didn't Love You",
+    "artist": "Jason Aldean & Carrie Underwood"
+  },
+  { "rank": "22", "name": "Take My Breath", "artist": "The Weeknd" },
+  {
+    "rank": "23",
+    "name": "Fair Trade",
+    "artist": "Drake Featuring Travis Scott"
+  },
+  { "rank": "24", "name": "Thats What I Want", "artist": "Lil Nas X" },
+  { "rank": "25", "name": "Traitor", "artist": "Olivia Rodrigo" },
+  {
+    "rank": "26",
+    "name": "Cold Beer Calling My Name",
+    "artist": "Jameson Rodgers Featuring Luke Combs"
+  },
+  {
+    "rank": "27",
+    "name": "Chasing After You",
+    "artist": "Ryan Hurd With Maren Morris"
+  },
+  {
+    "rank": "28",
+    "name": "Bad Morning",
+    "artist": "YoungBoy Never Broke Again"
+  },
+  { "rank": "29", "name": "Pepas", "artist": "Farruko" },
+  { "rank": "30", "name": "Deja Vu", "artist": "Olivia Rodrigo" },
+  { "rank": "31", "name": "Happier Than Ever", "artist": "Billie Eilish" },
+  { "rank": "32", "name": "Your Heart", "artist": "Joyner Lucas & J. Cole" },
+  {
+    "rank": "33",
+    "name": "Leave The Door Open",
+    "artist": "Silk Sonic (Bruno Mars & Anderson .Paak)"
+  },
+  { "rank": "34", "name": "Hurricane", "artist": "Kanye West" },
+  { "rank": "35", "name": "A-O-K", "artist": "Tai Verdes" },
+  { "rank": "36", "name": "Butter", "artist": "BTS" },
+  {
+    "rank": "37",
+    "name": "On My Side",
+    "artist": "YoungBoy Never Broke Again"
+  },
+  { "rank": "38", "name": "Too Easy", "artist": "Gunna & Future" },
+  {
+    "rank": "39",
+    "name": "Leave Before You Love Me",
+    "artist": "Marshmello X Jonas Brothers"
+  },
+  { "rank": "40", "name": "No Where", "artist": "YoungBoy Never Broke Again" },
+  {
+    "rank": "41",
+    "name": "Peaches",
+    "artist": "Justin Bieber Featuring Daniel Caesar & Giveon"
+  },
+  {
+    "rank": "42",
+    "name": "Family Ties",
+    "artist": "Baby Keem & Kendrick Lamar"
+  },
+  { "rank": "43", "name": "Memory I Don't Mess With", "artist": "Lee Brice" },
+  { "rank": "44", "name": "Late At Night", "artist": "Roddy Ricch" },
+  {
+    "rank": "45",
+    "name": "Things A Man Oughta Know",
+    "artist": "Lainey Wilson"
+  },
+  {
+    "rank": "46",
+    "name": "Cold Heart (PNAU Remix)",
+    "artist": "Elton John & Dua Lipa"
+  },
+  {
+    "rank": "47",
+    "name": "Meet Me At Our Spot",
+    "artist": "THE ANXIETY: WILLOW & Tyler Cole"
+  },
+  {
+    "rank": "48",
+    "name": "Life Support",
+    "artist": "YoungBoy Never Broke Again"
+  },
+  {
+    "rank": "49",
+    "name": "I Was On A Boat That Day",
+    "artist": "Old Dominion"
+  },
+  { "rank": "50", "name": "Love Nwantiti (Ah Ah Ah)", "artist": "CKay" },
+  { "rank": "51", "name": "Wild Side", "artist": "Normani Featuring Cardi B" },
+  {
+    "rank": "52",
+    "name": "Whole Lotta Money",
+    "artist": "BIA Featuring Nicki Minaj"
+  },
+  {
+    "rank": "53",
+    "name": "Hold Me Down",
+    "artist": "YoungBoy Never Broke Again"
+  },
+  { "rank": "54", "name": "Champagne Poetry", "artist": "Drake" },
+  {
+    "rank": "55",
+    "name": "Buy Dirt",
+    "artist": "Jordan Davis Featuring Luke Bryan"
+  },
+  { "rank": "56", "name": "Have Mercy", "artist": "Chloe" },
+  { "rank": "57", "name": "Love Again", "artist": "Dua Lipa" },
+  { "rank": "58", "name": "Nevada", "artist": "YoungBoy Never Broke Again" },
+  { "rank": "59", "name": "50 Shots", "artist": "YoungBoy Never Broke Again" },
+  { "rank": "60", "name": "No Friends In The Industry", "artist": "Drake" },
+  {
+    "rank": "61",
+    "name": "Smoke Strong",
+    "artist": "YoungBoy Never Broke Again"
+  },
+  {
+    "rank": "62",
+    "name": "Break Or Make Me",
+    "artist": "YoungBoy Never Broke Again"
+  },
+  { "rank": "63", "name": "You Time", "artist": "Scotty McCreery" },
+  { "rank": "64", "name": "Gyalis", "artist": "Capella Grey" },
+  { "rank": "65", "name": "Cold As You", "artist": "Luke Combs" },
+  { "rank": "66", "name": "My Boy", "artist": "Elvie Shane" },
+  { "rank": "67", "name": "Sincerely", "artist": "YoungBoy Never Broke Again" },
+  {
+    "rank": "68",
+    "name": "Drunk (And I Don't Wanna Go Home)",
+    "artist": "Elle King & Miranda Lambert"
+  },
+  {
+    "rank": "69",
+    "name": "I Can't Take It Back",
+    "artist": "YoungBoy Never Broke Again"
+  },
+  { "rank": "70", "name": "Waves", "artist": "Luke Bryan" },
+  {
+    "rank": "71",
+    "name": "Sharing Locations",
+    "artist": "Meek Mill Featuring Lil Baby & Lil Durk"
+  },
+  {
+    "rank": "72",
+    "name": "In The Bible",
+    "artist": "Drake Featuring Lil Durk & Giveon"
+  },
+  { "rank": "73", "name": "Thot Shit", "artist": "Megan Thee Stallion" },
+  { "rank": "74", "name": "Rumors", "artist": "Lizzo Featuring Cardi B" },
+  { "rank": "75", "name": "Woman", "artist": "Doja Cat" },
+  {
+    "rank": "76",
+    "name": "Thinking 'Bout You",
+    "artist": "Dustin Lynch Featuring Lauren Alaina Or MacKenzie Porter"
+  },
+  {
+    "rank": "77",
+    "name": "Baddest",
+    "artist": "Yung Bleu, Chris Brown & 2 Chainz"
+  },
+  { "rank": "78", "name": "2055", "artist": "Sleepy Hallow" },
+  { "rank": "79", "name": "Memory", "artist": "Kane Brown X blackbear" },
+  { "rank": "80", "name": "Forgiato", "artist": "YoungBoy Never Broke Again" },
+  {
+    "rank": "81",
+    "name": "You Should Probably Leave",
+    "artist": "Chris Stapleton"
+  },
+  {
+    "rank": "82",
+    "name": "Drinkin' Beer. Talkin' God. Amen.",
+    "artist": "Chase Rice Featuring Florida Georgia Line"
+  },
+  { "rank": "83", "name": "Rich Shit", "artist": "YoungBoy Never Broke Again" },
+  { "rank": "84", "name": "TSU", "artist": "Drake" },
+  { "rank": "85", "name": "Volvi", "artist": "Aventura x Bad Bunny" },
+  { "rank": "86", "name": "Todo de Ti", "artist": "Rauw Alejandro" },
+  { "rank": "87", "name": "Love All", "artist": "Drake Featuring JAY-Z" },
+  { "rank": "88", "name": "N 2 Deep", "artist": "Drake Featuring Future" },
+  { "rank": "89", "name": "Yonaguni", "artist": "Bad Bunny" },
+  { "rank": "90", "name": "Knowing You", "artist": "Kenny Chesney" },
+  { "rank": "91", "name": "For Tonight", "artist": "Giveon" },
+  {
+    "rank": "92",
+    "name": "Baddest Thing",
+    "artist": "YoungBoy Never Broke Again"
+  },
+  { "rank": "93", "name": "Summer Of Love", "artist": "Shawn Mendes & Tainy" },
+  { "rank": "94", "name": "Get Into It (Yuh)", "artist": "Doja Cat" },
+  { "rank": "95", "name": "Same Boat", "artist": "Zac Brown Band" },
+  { "rank": "96", "name": "Pipe Down", "artist": "Drake" },
+  { "rank": "97", "name": "Papi's Home", "artist": "Drake" },
+  {
+    "rank": "98",
+    "name": "Chosen",
+    "artist": "Blxst & Tyga Featuring Ty Dolla $ign"
+  },
+  {
+    "rank": "99",
+    "name": "Toxic Punk",
+    "artist": "YoungBoy Never Broke Again"
+  },
+  { "rank": "100", "name": "Moon", "artist": "Kanye West" }
+]
