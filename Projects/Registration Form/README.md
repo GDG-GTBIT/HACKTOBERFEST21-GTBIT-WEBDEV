@@ -1,0 +1,15 @@
+<h1>Registration Form</h1>
+
+<h2>Tech Stacks:</h2>
+<ul>
+  <li>Html</li>
+  <li>CSS</li>
+</ul>
+
+<h2>How to execute:</h2>
+<h3>Run the index.html file</h3>
+
+<h2>Explanation:</h2>
+<p>This is a very simple registration form. I made this project for beginners to understanding the fundamentals of html,css. User can put the data.</p>
+
+<h2>Screenshot:</h2>
