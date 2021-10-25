@@ -56,9 +56,9 @@ Are we missing any of your favorite features, which you think you can add to it�
 
 To start contributing, follow the below guidelines:
 
-**🌟.** Star🌟 the project to bookmark and appreciate the work.
+**🌟** Star🌟 the project to bookmark and appreciate the work.
 
-**0.** Take a look at the existing [issues](https://github.com/dsc-gtbit/HACKTOBERFEST21-GTBIT-WEBDEV/issues) or create your own issues. Wait for the Issue to be assigned to you after which you can start working on it.
+**0.** Take a look at the existing [issues](https://github.com/dsc-gtbit/HACKTOBERFEST21-GTBIT-WEBDEV/issues). Wait for the Issue to be assigned to you after which you can start working on it.
 
 **1.** Fork [this](https://github.com/dsc-gtbit/HACKTOBERFEST21-GTBIT-WEBDEV) repository.
 
@@ -81,7 +81,7 @@ git remote add upstream https://github.com/dsc-gtbit/HACKTOBERFEST21-GTBIT-WEBDE
 
 ```
 
-\*5.\*\* Check the remotes for this repository.
+**5.** Check the remotes for this repository.
 
 ```
 git remote -v
@@ -128,13 +128,9 @@ git push -u origin <your_branch_name>
 **14.** Click on `Create Pull Request`.
 
 **15.** Voila :exclamation: You have made a PR to the Akshima-Ghai/OneEducationalWebsiteForAll project :boom: . Sit back patiently and relax while the project maintainers review your PR. Please understand, at times the time taken to review a PR can vary from a few hours to a few days.
-
 <p align="center"><img src="https://media.tenor.com/images/b562ddcfb131e962f9dfa01bd32a30d1/tenor.gif" width=30%></p>
 
-## Project Admin 👩: 
 
-<a href="#">
-<h5 align="center"><b>Admin name</b></a>
 
 # License
 
