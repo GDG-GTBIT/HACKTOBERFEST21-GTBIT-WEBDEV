@@ -1,1 +1,52 @@
-/* you can style things anyway that you want , just be creative  */
+ul{
+	list-style: none;
+	background-color: black;
+	display: inline-block;
+	padding:  0;
+	margin: 10px;
+}
+
+
+.calculator{
+	border-radius: 10%;
+	background-color: black;
+	padding: 0;
+	padding-top: 2%;
+	display: inline-block;
+}
+
+.calculator-number{
+	color: magenta;
+}
+
+button:hover{
+	background-color: rgba(255,255,255,0.1);
+}
+
+button{
+	font-size: 30px;
+	border: black;
+	border-radius: 50% ;
+	margin: 5px;
+	display: inline-block;
+	width: 70px;
+	height: 70px;
+	background-color: black;
+	color: orange;
+}
+
+.screen{
+	display: block;
+	height: 80px;
+	width: 100%;
+	font-size: 30px;
+	background-color: white;
+	border: 2px solid black;
+	text-align: right;
+	padding: 2%;
+}
+
+input[type="text"]{
+	border: none;
+	outline: none;
+}
