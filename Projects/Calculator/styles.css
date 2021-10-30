@@ -1,52 +1,108 @@
-ul{
-	list-style: none;
-	background-color: black;
-	display: inline-block;
-	padding:  0;
-	margin: 10px;
+* {
+  margin: 0;
+  padding: 0;
 }
 
-
-.calculator{
-	border-radius: 10%;
-	background-color: black;
-	padding: 0;
-	padding-top: 2%;
-	display: inline-block;
+body {
+  background: #A0CCBE;
 }
 
-.calculator-number{
-	color: magenta;
+body > center {
+  background: #333;
+  margin: auto;
 }
 
-button:hover{
-	background-color: rgba(255,255,255,0.1);
+div.centered {
+  margin: auto;
+  width: 280px;
+  height: 500px;
+  border-radius: 15px;
+  border: 1px solid black;
+  position: relative;
+  top: 150px;
+  background: #888;
 }
 
-button{
-	font-size: 30px;
-	border: black;
-	border-radius: 50% ;
-	margin: 5px;
-	display: inline-block;
-	width: 70px;
-	height: 70px;
-	background-color: black;
-	color: orange;
+.white-theme .back-ground {
+  background: #FFF;
+}
+.white-theme .sw-button {
+  background: #F5F8FC;
+}
+.white-theme .sw-button-notch {
+  background: #FFF;
+  border: 1px solid #E0E3E5;
+  border-radius: 100%;
+}
+.white-theme .red-dot {
+  background: #FD544D;
+}
+.white-theme .yellow-dot {
+  background: #FFC02F;
+}
+.white-theme .green-dot {
+  background: #28CA40;
+}
+.white-theme .display-and-buttons {
+  background: #F4FDFB;
+}
+.white-theme .equal-button {
+  background: #18D4A3;
 }
 
-.screen{
-	display: block;
-	height: 80px;
-	width: 100%;
-	font-size: 30px;
-	background-color: white;
-	border: 2px solid black;
-	text-align: right;
-	padding: 2%;
+.dark-theme .back-ground {
+  background: #2E3951;
+}
+.dark-theme .sw-button {
+  background: #15D09F;
+}
+.dark-theme .sw-button-notch {
+  background: #212B41;
+  border: 1px solid #1C6460;
+  border-radius: 100%;
+}
+.dark-theme .red-dot {
+  background: #FD544D;
+}
+.dark-theme .yellow-dot {
+  background: #FFC02F;
+}
+.dark-theme .green-dot {
+  background: #28CA40;
+}
+.dark-theme .display-and-buttons {
+  background: #2E3951;
+}
+.dark-theme .equal-button {
+  background: #18D4A3;
 }
 
-input[type="text"]{
-	border: none;
-	outline: none;
+textarea {
+  font-size: 55px;
+  width: 270px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+button {
+  border-radius: 100%;
+  width: 47px;
+  height: 47px;
+  margin: 11px 9px;
+  padding: 0px;
+  font-size: 30px;
+}
+
+.calculator-number {
+  cursor: pointer;
+}
+
+button.hidden-button {
+  filter: opacity(0);
+}
+
+button.daynight {
+  width: 18px;
+  height: 18px;
+  float: right;
 }
